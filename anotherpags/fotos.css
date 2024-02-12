@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+*{
+    margin: 0;
+    background-color: black;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+ }
+ 
+ header {
+    height: 90px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+ }
+ 
+ nav {
+    width: 60%;
+ }
+ 
+ ul {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+ }
+ 
+ li {
+   list-style: none;
+   color: aliceblue;
+   cursor: pointer;
+   font-size: 19px;
+   border-bottom: 4px solid black;
+   transition: .5s;
+   font-family: 'Poppins', sans-serif;
+}
+
+ #azul:hover {
+   border-bottom: 4px solid #0E4B84;
+}
+
+ #vermelho:hover {
+   border-bottom: 4px solid #A81E22;
+}
+ 
+ #logo {
+    width: 100px;
+    height: auto;
+ }
+
+ .fotos-area {
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   margin-top: 50px;
+ }
+
+ .fotos-content {
+   display: grid;
+   grid-template-columns: repeat(3,2fr);
+   row-gap: 20px;
+   column-gap: 20px;
+ }
+
+ .foto {
+   width: 500px;
+   height: 300px;
+   background-size: cover;
+   background-position: 50% 50%;
+   border-radius: 5px;
+   cursor: pointer;
+   transition: 1s;
+   display: flex;
+   flex-direction: column;
+   opacity: 60%;
+   
+ }
+
+ .foto:hover {
+   transform: scale(1.02);
+   opacity: 100%;
+ }
+
+.pic-1 {
+   background-image: url(../fotos/img1.jpg);
+}
+
+.pic-2 {
+   background-image: url(../fotos/img2.jpg);
+}
+
+.pic-3 {
+   background-image: url(../fotos/img3.jpg);
+}
+
+.pic-4 {
+   background-image: url(../fotos/img4.jpg);
+}
+
+.pic-5 {
+   background-image: url(../fotos/img5.jpg)
+}
+
+.pic-6 {
+   background-image: url(../fotos/img6.jpg)
+}
+
+
+ footer {
+    height: 300px;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+ }
+ 
+ span {
+    color: aliceblue;
+    font-family: 'Poppins', sans-serif;
+ }
+ 
+ .footer-navigation {
+    display: none;
+ }
+ 
+ .footer-list {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    column-gap: 20px;
+ }
+ 
+ @media (max-width: 768px){
+    .footer-navigation {
+        display: block;
+        
+    }
+ 
+    nav {
+        display: none;
+    }
+
+    .fotos-content {
+      justify-content: center;
+      grid-template-columns: 1fr;
+    }
+
+    .foto {
+      width: 350px;
+      opacity: 100%;
+    }
+}
