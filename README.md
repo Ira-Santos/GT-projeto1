@@ -1,33 +1,36 @@
-# Site modelo para divulgação de filmes
+# Site modelo para divulgação de Filme
 
+## Meu primeiro site desenvolvido
 
-Apresento o meu **primeiro projeto** com base em estudos sobre _HTML_ e _CSS_, um site simples porém com alguns desafios para quem está aprendendo.
+<p align="justify">
+Este projeto foi uma jornada de aprendizado e descobertas. Ao desenvolver um site para divulgar o filme Gran Turismo, utilizando apenas <b>HTML</b> e <b>CSS</b>, pude me desafiar a criar uma interface intuitiva e visualmente impactante. A construção de elementos interativos e a otimização para diferentes dispositivos foram alguns dos desafios que me permitiram aprofundar meus conhecimentos. Com este projeto, dou os primeiros passos em direção ao desenvolvimento web e estou ansioso para explorar novas tecnologias e aprimorar minhas habilidades.
+</p>
+<br>
+<p align="center">
+  <img src="https://media.tenor.com/87jPcmiwtgQAAAAM/gran-turismo-movie.gif" width= "500px">
+</p>
+<br>
+<hr>
+<br>
+<p align="justify">
+Um dos maiores desafios que encontrei foram nas páginas de “Contato” e de “Jogos”. No “Contato” se teve um formulário que é bastante complicado montar o layout, tanto para que fique bom visualmente como organizado, e na parte da responsividade demorei um pouco até entender como ajustar. No “Jogos” teve a questão da transição dos cards, entender esse tipo de conceito no CSS faz com que você tenha que pensar um pouco mais, no final consegui o resultado que queria.
+</p>
+<br>
+<p align="center">
+  <img src="https://pa1.aminoapps.com/8760/b13d4a55f06ab29f80e9eccdc385c4701bb1bd9fr1-320-240_hq.gif" width= "500px">
+</p>
+<br>
+<hr>
+<br>
+<p align="justify">
+O próximo passo é continuar os estudos com objetivo em Front-end (e ainda tentarei buscar o Full-stack futuramente), para minha constante evolução, explorando novas tecnologias e atualizações no mercado.
+</p>
+<br>
+<p align="center">
+  <img src="https://media3.giphy.com/media/JGVWcMe3Klfb9IBxjw/giphy.gif" width="850px">
+</p>
 
+Espero que goste, e qualquer feedback me ajudaria muito!
 
-O site se baseia em uma divulgação do filme **"Gran Turismo - De jogador a corredor"** mostrando cenas do filme, fotos, personagens e até mesmo os jogos da franquia Gran-Turismo.
+Acesse o site <a href="https://ira-santos.github.io/GT-projeto1/" target="_blank"><b>AQUI</b></a>!
 
-
-![cena retirada do filme](https://media.tenor.com/87jPcmiwtgQAAAAM/gran-turismo-movie.gif)
-
-
-Esse projeto serviu como um exercício de aprendizagem ao conteúdo de _HTML_ e _CSS_, utilizando as diversas opções de marcação e estilização...
-
-
-Como por exemplo do _HTML_, aprendi como funciona as partes de um site e seu escopo, sabendo o que é um **"header"**; ou a área principal do site onde se vai todo o conteúdo e suas seções e o **"footer"**, assim entendendo pelo menos a base de um site , também se fez bastante uso de tags conhecidas e de entrada ao html como as **"div"** para a divisão dos diferentes conteúdos das páginas, os titulos, paragrafos e também foram trabalhados bastante o uso das mídias tanto com imagens ou vídeos, teve a criação de um **"form"** e várias outras possibilidades que se pode ter com o _HTML_.
-
-
-![cena retirada do filme](https://pa1.aminoapps.com/8760/b13d4a55f06ab29f80e9eccdc385c4701bb1bd9fr1-320-240_hq.gif)
-
-
-Já com o _CSS_ o desafio foi um pouco maior pois pensar no estilo de um site requer bastante cuidado pois tem que ter uma ordem de cores, tamanhos e pelo menos uma identidade do site para que nada fuja da ideia principal, neste site foi usado os **flexbox**, cores, transições e **"hover"** para gerar mais interação com o público. Foi trabalhado bastante a questão da responsividade com parte do **"Media Query"** para o costume de fazer projetos não só para PCs e sim para outros dispositivos.
-
-
-O maior desafio deste meu exercício foi da sessão sobre os jogos da franquia, pois quis me propor esse tipo de transação mais avançada para me obrigar a estudar mais a fundo o conteúdo e conhecer mais as possibilidades que posso ter apenas usando o _HTML_ e o _CSS_.
-
-
-![gif do jogo gran turismo 7](https://media3.giphy.com/media/JGVWcMe3Klfb9IBxjw/giphy.gif)
-
-
-Considerações finais -
-
-Atualmente sou um estudante iniciante na area da programação porem sou formado em Design Gráfico e isso me ajuda bastante na questão do estilo, tentei trabalhar muito meu olhar crítico ao usar o _CSS_ mesmo com pouco conhecimento, estou buscando constantemente evolução para começar no Front-end e quem sabe lá na frente me tornar **Full-stack**, espero que goste desse meu primeiro Site e obrigado pelo tempo :wave:
