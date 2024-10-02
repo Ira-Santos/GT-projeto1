@@ -1,6 +1,6 @@
-# Site modelo para divulgação de Filme
+# :computer: Site modelo para divulgação de Filme
 
-## Meu primeiro site desenvolvido
+ ## :raising_hand: Meu primeiro site desenvolvido
 
 <p align="justify">
 Este projeto foi uma jornada de aprendizado e descobertas. Ao desenvolver um site para divulgar o filme Gran Turismo, utilizando apenas <b>HTML</b> e <b>CSS</b>, pude me desafiar a criar uma interface intuitiva e visualmente impactante. A construção de elementos interativos e a otimização para diferentes dispositivos foram alguns dos desafios que me permitiram aprofundar meus conhecimentos. Com este projeto, dou os primeiros passos em direção ao desenvolvimento web e estou ansioso para explorar novas tecnologias e aprimorar minhas habilidades.
@@ -29,8 +29,8 @@ O próximo passo é continuar os estudos com objetivo em Front-end (e ainda tent
 <p align="center">
   <img src="https://media3.giphy.com/media/JGVWcMe3Klfb9IBxjw/giphy.gif" width="850px">
 </p>
-
-Espero que goste, e qualquer feedback me ajudaria muito!
-
-Acesse o site <a href="https://ira-santos.github.io/GT-projeto1/" target="_blank"><b>AQUI</b></a>!
-
+<br>
+<p align="center">
+Espero que goste, e qualquer feedback me ajudaria muito!<br>Acesse o site:
+<a href="https://ira-santos.github.io/GT-projeto1/" target="_blank" text-align: center><b>AQUI</b></a>! :oncoming_automobile:
+</p>
